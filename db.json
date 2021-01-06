@@ -8,8 +8,12 @@
       "greutate": "1.224g",
       "diametru": "13.92mm",
       "margine": "zimtata",
-      "detalii": "Avers: o reprezentare ecvestră a domnitorului Mihai Viteazul, inscripţia în arc de cerc „ROMANIA”, valoarea nominală „10 LEI”, stema României și anul de emisiune „2018”.Revers: în partea centrală, chipul lui Mihai Viteazul așa cum este prezentat pe aversul monedei de 10 ducați Mihai Viteazul, în partea de jos, reproducerea reversului monedei, iar în arc de cerc inscripția „ISTORIA AURULUI – MONEDA DE 10 DUCATI MIHAI VITEAZUL”.",
-      "pret": "3000",
+      "detalii": [
+        "detalii1": "Avers: o reprezentare ecvestră a domnitorului Mihai Viteazul, inscripţia în arc de cerc „ROMANIA”, valoarea nominală „10 LEI”, stema României și anul de emisiune „2018”.",
+        "detalii2": "Revers: în partea centrală, chipul lui Mihai Viteazul așa cum este prezentat pe aversul monedei de 10 ducați Mihai Viteazul, în partea de jos, reproducerea reversului monedei, iar în arc de cerc inscripția „ISTORIA AURULUI – MONEDA DE 10 DUCATI MIHAI VITEAZUL”.",
+        "detalii3": "empty"
+        ],
+        "pret": "3000",
       "imgurl": "https://www.bnr.ro/files/numismatics/10-ducati-av-mare_site_201812242256267.png"
     },
     {
