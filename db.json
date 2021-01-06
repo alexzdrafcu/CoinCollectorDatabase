@@ -42,7 +42,12 @@
       "greutate": "1.224g",
       "diametru": "13.92mm",
       "margine": "zimtata",
-      "detalii": "Avers: coroana din aur a reginei Elisabeta a României, inscripția în arc de cerc „ROMANIA”, anul de emisiune „2017”, stema României și valoarea nominală „10 LEI”. Revers: portretul reginei Elisabeta a României și inscripția în arc de cerc „REGINA ELISABETA A ROMANIEI”.",
+      "detalii": 
+      {
+        "detalii1": "Avers: coroana din aur a reginei Elisabeta a României, inscripția în arc de cerc „ROMANIA”, anul de emisiune „2017”, stema României și valoarea nominală „10 LEI”.",
+        "detalii2": "Revers: portretul reginei Elisabeta a României și inscripția în arc de cerc „REGINA ELISABETA A ROMANIEI”.",
+        "detalii3": "empty"
+      },
       "pret": "5000",
       "imgurl": "https://www.bnr.ro/files/numismatics/2017_12_18%20av%20mic_2017128413552.png"
     },
@@ -54,7 +59,12 @@
       "greutate": "6.22g",
       "diametru": "9mm",
       "margine": "neteda",
-      "detalii": "Avers: În partea centrală un medalion circular, în interiorul căruia este reprodusă stema României, înconjurată de un element decorativ. În jurul medalionului este gravată circular, în partea de sus, inscripţia 'ROMANIA', iar în partea de jos, valoarea nominală '500 LEI'. Anul emisiunii '2001' este inscripţionat pe orizontală, de o parte şi de alta a medalionului circular.",
+      "detalii": 
+      {
+        "detalii1": "Avers: În partea centrală un medalion circular, în interiorul căruia este reprodusă stema României, înconjurată de un element decorativ. În jurul medalionului este gravată circular, în partea de sus, inscripţia 'ROMANIA', iar în partea de jos, valoarea nominală '500 LEI'. Anul emisiunii '2001' este inscripţionat pe orizontală, de o parte şi de alta a medalionului circular.",
+        "detalii2": "Revers: În centru, reprezentarea grafică a unei piese din Tezaurul de la Pietroasa şi anume fibula mare (cloşca) precum şi inscripţia „TEZAURUL DE LA PIETROASA".",
+        "detalii3": "empty"
+      },
       "pret": "8000",
       "imgurl": "https://www.bnr.ro/files/numismatics/2001_12_20%20av%20comun%20mic_20177181927186.png"
     }
