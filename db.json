@@ -25,7 +25,12 @@
       "greutate": "1.224g",
       "diametru": "13.92mm",
       "margine": "zimtata",
-      "detalii": "Avers: reprezentarea aversului monedei din aur de 50 lei cu milesimul 1922, inscripția „ROMANIA”, valoarea nominală „10 LEI”, anul de emisiune „2019” și stema României.Revers: reprezentarea reversului monedei din aur de 50 lei cu milesimul 1922 și inscripția pe două rânduri „ISTORIA AURULUI MONEDA DE 50 LEI 1922”.",
+      "detalii": 
+      {
+        "detalii1": "Avers: reprezentarea aversului monedei din aur de 50 lei cu milesimul 1922, inscripția „ROMANIA”, valoarea nominală „10 LEI”, anul de emisiune „2019” și stema României."
+        "detalii2": "Revers: reprezentarea reversului monedei din aur de 50 lei cu milesimul 1922 și inscripția pe două rânduri „ISTORIA AURULUI MONEDA DE 50 LEI 1922”.",
+        "detalii3": "empty"
+      },
       "pret": "4000",
       "imgurl": "https://www.bnr.ro/files/numismatics/2019_12_01%20av%20mic_201911292517909.png"
     },
