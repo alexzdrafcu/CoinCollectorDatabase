@@ -3,6 +3,7 @@
      {
       "id": 1,
       "nume": "10 ducati Mihai Viteazul",
+       "an": "2020",
       "valoareNominala": "10 lei",
       "material": "aur 999/1000",
       "greutate": "1.224g",
@@ -20,6 +21,7 @@
     {
       "id": 2,
       "nume": "50lei cu milesimul 1922",
+      "an": "2020",
       "valoareNominala": "10 lei",
       "material": "aur 999/1000",
       "greutate": "1.224g",
@@ -37,6 +39,7 @@
     {
       "id": 3,
       "nume": "Coroana reginei Elisabeta",
+      "an": "2020",
       "valoareNominala": "10 lei",
       "material": "aur 999/1000",
       "greutate": "1.224g",
@@ -54,6 +57,7 @@
     {
       "id": 4,
       "nume": "Tezaurul de la Pietroasa",
+      "an": "2020",
       "valoareNominala": "500 lei",
       "material": "aur 999/1000",
       "greutate": "6.22g",
