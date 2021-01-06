@@ -2,7 +2,7 @@
   
   {
     "id": 1,
-    "nume": "10 ducati Mihai Viteazul"
+    "nume": "10 ducati Mihai Viteazul",
     "valoareNominala": "10 lei",
     "material": "aur 999/1000",
     "greutate": "1.224g",
@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "nume": "50lei cu milesimul 1922"
+    "nume": "50lei cu milesimul 1922",
     "valoareNominala": "10 lei",
     "material": "aur 999/1000",
     "greutate": "1.224g",
@@ -26,7 +26,7 @@
   },
   {
     "id": 3,
-    "nume": "Coroana reginei Elisabeta"
+    "nume": "Coroana reginei Elisabeta",
     "valoareNominala": "10 lei",
     "material": "aur 999/1000",
     "greutate": "1.224g",
@@ -37,7 +37,7 @@
     "imgurl": "https://www.bnr.ro/files/numismatics/2017_12_18%20av%20mic_2017128413552.png"
   },{
     "id": 4,
-    "nume": "Tezaurul de la Pietroasa"
+    "nume": "Tezaurul de la Pietroasa",
     "valoareNominala": "500 lei",
     "material": "aur 999/1000",
     "greutate": "6.22g",
